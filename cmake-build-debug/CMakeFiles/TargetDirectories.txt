@@ -1,0 +1,3 @@
+/home/marta/CLionProjects/discrete_mathematics_task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marta/CLionProjects/discrete_mathematics_task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marta/CLionProjects/discrete_mathematics_task1/cmake-build-debug/CMakeFiles/discrete_mathematics_task1.dir
